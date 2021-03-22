@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.SeyTonic13.Todo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
